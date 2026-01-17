@@ -88,7 +88,7 @@ Lymphography-XAI-Project/
 git clone https://github.com/ad8034/Lymphography-XAI-Project.git
 ```
 2. Setup venv
-```
+```bash
 python -m venv venv
 venv\scripts\activate
 ```
